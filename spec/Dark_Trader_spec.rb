@@ -9,4 +9,3 @@ describe "the Dark_Trader" do
 
     end
 end
-
